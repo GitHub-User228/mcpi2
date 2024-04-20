@@ -1,0 +1,6 @@
+mcpi
+tqdm
+wheel
+PyYAML
+setuptools
+opencv-python

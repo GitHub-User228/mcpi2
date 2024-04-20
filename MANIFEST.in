@@ -1,0 +1,2 @@
+include src/mcpi2/config/*
+include src/mcpi2/logs/*
